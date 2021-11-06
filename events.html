@@ -1,0 +1,414 @@
+<!doctype html>
+<html lang="en">
+    <head>
+    <title>Events | GDSC@MMU</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="https://cdn.jsdelivr.net/npm/tooltip-js@3.0.0/dist/tooltip.min.js"></script>
+    <link href="assets/img/developer-logo.png" rel="icon">
+    <link href="assets/css/events.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/navbar.css" rel="stylesheet">
+    <link href="assets/css/calendar.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.4.0/main.css">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.4.0/main.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="assets/js/config.js"></script>
+    <script src="assets/js/calendar.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CCS3W88SJN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-CCS3W88SJN');
+    </script>
+  </head>
+  <body>
+
+    <nav id="sidebar">
+      <div id="dismiss">
+          <i class="fa fa-arrow-left"></i>
+      </div>
+
+      <div class="sidebar-header">
+          <h3>GDSC@MMU</h3>
+      </div>
+
+      <ul class="list-unstyled components">
+          <li>
+            <a class="navbar-link" href="../index.html">Home</a>
+          </li>
+
+          <li>
+            <a class="normal-nav-link" href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">About</a>
+            <ul class="collapse list-unstyled" id="homeSubmenu">
+                <li>
+                    <a class="navbar-link" href="../index.html#moreondsc">Who We Are</a>
+                </li>
+                <li>
+                    <a class="navbar-link" href="../index.html#whattoexpect">What To Expect</a>
+                </li>
+            </ul>
+          </li>
+          <li>
+            <a class="navbar-link" href="team.html">Meet the Team</a>
+          </li>
+          <li>
+            <a class="navbar-link" href="#">Events</a>
+          </li>
+          <li>
+            <a class="navbar-link" href="#footer">Contact Us</a>
+          </li>
+      </ul>
+      <div class="social-handles">
+        <a href="https://github.com/GDSCMMU" target="_"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+        <a href="https://www.facebook.com/dscmmu" target="_"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/dsc-mmu-123a261ba/" target="_"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+        <a href="https://www.youtube.com/channel/UCSonnieKvZDRUrKmzzUdv1w?" target="_"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a>
+        <a href="mailto:lead.dscmmu@gmail.com"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/DscMmu" target="_"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+      </div>
+
+    </nav>
+
+  <button type="button" id="sidebarCollapse" class="btn">
+    <i class="navbar-toggle fa fa-bars fa-2x"></i>
+  </button>
+
+  <div class="overlay"></div>
+    <header>
+      <div class="container">
+
+        <nav data-aos="fade-down" class="nav d-flex justify-content-between align-items-center">
+
+          <ul class="main-links list-unstyled d-flex">
+            <li><a href="index.html" class="nav-link">Home</a></li>
+            <li><a href="index.html#moreondsc" class="nav-link">About</a></li>
+            <li><a href="team.html" class="nav-link">Team</a></li>
+            <li><a class="nav-link">Events</a></li>
+            <li><a href="#footer" class="nav-link">Contact Us</a></li>
+          </ul>
+
+          <div class="spacer">
+          </div>
+
+          <div class="social-handles">
+            <a href="https://github.com/GDSCMMU" target="_"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+            <a href="https://www.facebook.com/dscmmu" target="_"><i class="fa fa-facebook fa-2x" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/dsc-mmu-123a261ba/" target="_"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+            <a href="https://www.youtube.com/channel/UCSonnieKvZDRUrKmzzUdv1w?" target="_"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></i></a>
+            <a href="mailto:lead.dscmmu@gmail.com"><i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
+            <a href="https://twitter.com/DscMmu" target="_"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+          </div>
+        </ul>
+
+      </div>
+    </header>
+
+    <div id="events-header" class="main container-fluid d-flex align-items-center text-center">
+        <div data-aos="fade-down" data-aos-duration="1500" class="container">
+              <h1>Events</h1>
+              <h3>All the Stuff We Do</h3>
+              <a href="#events"><button class="btn find-out-more mt-4">
+                View Events
+              </button></a>
+        </div>
+    </div>
+
+    <div id="events">
+
+      <!-- add new events here -->
+      <div class="event event-odd container-fluid">
+        <div data-aos="fade-down" data-aos-duration="1500" class="container">
+            <div class="row text-center text-md-left about-box">
+              <div class="col-md-6 d-flex justify-content-center align-items-center">
+                <img src="/assets/img/jsweek.png" class="img-fluid rounded workshop-graphic" alt="Webdev poster">
+            </div>
+                <div class="col-md-6 mt-4 mb-4 d-flex flex-column justify-content-center">
+                    <h3 class="mb-4">Javascript Week 2021</h3>
+                    <a href="/jsweek.html">
+                      <button class="btn btn-warning">
+                        Read More!
+                      </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+      </div>
+
+      <div class="event event-even container-fluid">
+        <div data-aos="fade-down" data-aos-duration="1500" class="container">
+            <div class="row text-center text-md-left about-box">
+              <div class="col-md-6 d-flex justify-content-center align-items-center">
+                <!-- <img src="https://via.placeholder.com/350x150.png" alt="placeholder image"> -->
+                <img src="/assets/img/puansitievent.png" class="img-fluid rounded workshop-graphic" alt="Webdev poster">
+            </div>
+                <div class="col-md-6 mb-4 d-flex flex-column justify-content-center">
+                    <h3 class="mb-4">Learn the Secrets Of The IT Industry!</h3>
+                    <p>
+                      Tips to kickstart your career in tech by the speaker, Ms. Siti Hafsah Mohd Desa, The Head of IT at Malaysia Airlines.
+                    </p>
+                    <p>
+                      Join us to learn about how Madam Siti became the Head of IT in MAS without an IT degree and stock up your toolbox for a career
+                      in the ever-changing world of technology.
+                      The following are the event details:
+                      <ul>
+                        <li>Date: 21st January 2021</li>
+                        <li>Time: 8:00p.m. - 9:30p.m.</li>
+                        <li>Platform: Google Meet</li>
+                      </ul>
+                    </p>
+
+                    <a href="https://dsc.community.dev/e/mcjg2d/" target="_">
+                      <button class="btn find-out-more mt-4 mr-4">
+                        Sign Up
+                      </button>
+                    </a>
+
+                </div>
+
+            </div>
+        </div>
+      </div>
+
+      <div class="event event-odd container-fluid">
+        <div data-aos="fade-down" data-aos-duration="1500" class="container">
+            <div class="row text-center text-md-left about-box">
+                <div class="col-md-6 mb-4 d-flex flex-column justify-content-center">
+                    <h3 class="mb-4">Fluttered With Flutter</h3>
+                    <p>
+                      Wanna learn how to build native cross platform apps?
+                      Sign up for our Flutter workshop series!
+
+                      "Fluttered with Flutter" is an introductory Flutter workshop series organized by DSC@MMU, with 3 sessions.
+
+                      We've invited two Google Developer Experts on Flutter:
+                      <ul>
+                        <li>Muhammad Haris Bin Samingan, a Flutter developer and YouTuber in Singapore (P/S: He teaches Flutter on his <a href="https://www.youtube.com/channel/UChMjpXwPFzK6x82qz-R_TEQ" target="_">YouTube</a> channel, go check it out)</li>
+                        <li>Joshua de Guzman, a software engineer at Better Bank - Brooklyn, New York</li>
+                      </ul>
+                      This workshop series is beginner friendly, as we'll go from the fundamentals of programming with Dart, to having a basic understanding of Flutter.
+                    </p>
+
+                    <a href="https://dsc.community.dev/events/details/developer-student-clubs-multimedia-university-presents-fluttered-with-flutter-session-2/" target="_">
+                      <button class="btn find-out-more mt-4 mr-4">
+                        Sign Up
+                      </button>
+                    </a>
+
+                </div>
+                <div class="col-md-6 d-flex justify-content-center align-items-center">
+                    <!-- <img src="https://via.placeholder.com/350x150.png" alt="placeholder image"> -->
+                    <img src="/assets/img/flutter-workshop-graphic.png" class="img-fluid rounded workshop-graphic" alt="Webdev poster">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+        <div class="event event-even container-fluid">
+            <div data-aos="fade-down" data-aos-duration="1500" class="container">
+                <div class="row text-center text-md-left about-box">
+                  <div class="col-md-6 d-flex justify-content-center align-items-center">
+                    <!-- <img src="https://via.placeholder.com/350x150.png" alt="placeholder image"> -->
+                    <img src="/assets/img/webdev_ig-01.png" class="img-fluid rounded workshop-graphic" alt="Webdev poster">
+                </div>
+
+                    <div class="col-md-6 mb-4 d-flex flex-column justify-content-center">
+                        <h3 class="mb-4">Full Stack Web Development</h3>
+                        <p>
+                          Wanna learn full stack website development, from frontend to backend? Sign up for this workshop series!
+                          <br>
+                          <br>
+                          Here are the pre-requisites for this workshop series:
+                          <ul class="prereqs">
+                            <li>basic understanding of HTML, CSS</li>
+                            <li>JavaScript (variables, loops, functions, classes, JSON notation)</li>
+                            <li>fundamental modern JavaScript (ES6)</li>
+                            <li>basic understanding of the client-server model</li>
+                          </ul>
+                          Don't worry if you don't have a good grasp of the pre-requisites, 
+                          after watching the following two videos, you'll be ready for the workshop series.
+                          <ul class="prereqs">
+                            <li><a href="https://www.youtube.com/watch?v=XQs5KcUj-Do" target="_">Video 1 : Git, HTML, CSS</a></li>
+                            <li><a href="https://www.youtube.com/watch?v=xMs4ER1rcLg" target="_">Video 2 : JavaScript Basics</a></li>
+                          </ul>
+                        </p>
+                        <a href="https://forms.gle/WCFcsWnvaPG9sZWA9" target="_"><button class="btn find-out-more mt-4 mr-4">
+                            Sign Up
+                        </button></a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- <div class="event event-even container-fluid">
+            <div data-aos="fade-down" data-aos-duration="1500" class="container">
+                <div class="row text-center text-md-left about-box"> 
+                    <div class="col-md-6 d-flex align-items-center">
+                      <img src="https://via.placeholder.com/350x150.png" alt="placeholder image">
+                    </div>
+                    <div class="col-md-6 mb-4 d-flex flex-column justify-content-center">
+                        <h3 class="mb-4">Get a Glimpse of Google's Hiring Process (With Marcus Foon)</h3>
+                        <p>
+                          Keynote Presenter: Marcus Foon, Program Manager, Google Singapore
+                        </p>
+                        <p>
+                          Wanna know how the hiring process is like at Google Singapore?
+                          <br/>
+                          Curious about how to join Google?
+                        </p>
+                          Attend this session where Marcus talks about the two topics above, and gain insights on ways to get a head-start in your career path in technology.</p>
+                        <a href="https://forms.gle/shPhxa7mvCydmA8W6" target="_"><button class="btn find-out-more mt-4 mr-4">
+                            Sign Up
+                          </button></a>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- <div class="event event-odd container-fluid">
+            <div data-aos="fade-down" data-aos-duration="1500" class="container">
+                <div class="row text-center text-md-left about-box">
+                    <div class="col-md-6 mb-4 d-flex flex-column justify-content-center">
+                        <h3 class="mb-4">Full Stack Web Development</h3>
+                        <p>Add write up here</p>  
+                        <a href="https://forms.gle/shPhxa7mvCydmA8W6" target="_"><button class="btn find-out-more mt-4 mr-4">
+                            Sign Up
+                          </button></a>                  
+                    </div>
+                    <div class="col-md-6 d-flex align-items-center">
+                      <img src="https://via.placeholder.com/350x150.png" alt="placeholder image">
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    </div>
+
+    <!-- <div data-aos="fade-down" data-aos-duration="1500" class="container">
+        <div class="row about-box">
+          <div class="col-md-6 mb-4 d-flex flex-column justify-content-center">
+            
+          </div>
+          <div class="col-md-6 d-flex align-items-center">
+
+          </div>
+        </div>
+    </div> -->
+    <div class="event event-even container-fluid align-items-center text-center">
+      <div data-aos="fade-down" data-aos-duration="1500" class="container">
+        <h3 class="mb-4">Future Events</h2>
+        <div id="calendar"></div>
+      </div>
+    </div>   
+      
+
+    </div>
+
+    <footer id="footer" class="container-fluid">
+      <div class="container">
+        <div class="heading">
+          <h2>Get In Touch With Us!</h2>
+        </div>
+        <div class="row mb-5 justify-content-center">
+          <div data-aos="fade-down" data-aos-duration="1500" class="form-section col-lg-4 col-md-6 mb-5">
+            <h5 class="mb-4 text-sm-center">Have a Question?</h5>
+            <div class="success-message"></div>
+            <form name="submit-to-google-sheet">
+              <div class="form-group">
+                <label for="Name">Name</label>
+                <input name="name" type="text" class="form-control" id="name" aria-describedby="emailHelp" placeholder="Enter your name">
+              </div>
+              <div class="form-group">
+                <label for="exampleInputEmail1">Email address</label>
+                <input name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+              </div>
+              <div class="form-group">
+                <label for="Message">Message</label>
+                <textarea name="message" type="textarea" class="form-control" id="message" aria-describedby="emailHelp" placeholder="Have anything on your mind?"></textarea>
+              </div>
+              <button type="submit" class="btn btn-primary">Send!</button>
+            </form>
+          </div>
+          <!-- <div class="col-md-4">
+            
+          </div> -->
+          <div data-aos="fade-down" data-aos-duration="1500" class="col-lg-4 col-md-6 text-center">
+            <h5 class="mb-4">Join Us On Discord!</h5>
+            <iframe class="discord-widget" src="https://discord.com/widget?id=772431062532882432&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <p>Engineered by the <a href="https://github.com/GDSCMMU" target="_">Technical Team</a> | All Rights Reserved by GDSC@MMU</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- jQuery Custom Scroller CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#sidebar").mCustomScrollbar({
+                theme: "minimal"
+            });
+
+            $('#dismiss, .overlay, .navbar-link').on('click', function () {
+                $('#sidebar').removeClass('active');
+                $('.overlay').removeClass('active');
+            });
+
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').addClass('active');
+                $('.overlay').addClass('active');
+                $('.collapse.in').toggleClass('in');
+                $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+            });
+        });
+    </script>
+    <script>
+      $(window).resize(function() {
+        if($(window).width() < 767 ) {
+          $('.prereqs').addClass('text-left')
+        } else {
+          $('.prereqs').removeClass('text-left')
+        } 
+      })
+    </script>
+    <script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbwnUWrY8gzGqbVZ4on6-hsPAbms8khQltLrV85cqOmO6kQklv0/exec'
+    const form = document.forms['submit-to-google-sheet']
+
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', 
+      body: new FormData(form)})
+        .then(response => {
+          let successbox = document.querySelector('.success-message');
+          successbox.innerHTML = '<div class="alert alert-primary">We will get back to you ASAP!</div>';
+          form.name = form.email = form.message = ' ';
+          console.log('Success!', response)
+        })
+        .catch(error => console.error('Error!', error.message))
+    })
+    </script>
+    <script>
+      AOS.init();
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
