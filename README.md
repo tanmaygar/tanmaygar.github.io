@@ -1,3 +1,1 @@
-# gdscmmu.github.io
-A Plain Old Static Site!
-Built with love by the Technical Team.
+#TEDX-IITHYDERABAD-2021
