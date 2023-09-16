@@ -4,10 +4,7 @@ main:
     url: /publications/
 
   - title: "Research"
-  url: /research/
-
-  # - title: "Talks"
-  #   url: /talks/    
+    url: /research/
 
   - title: "Teaching Assistantships"
     url: /teaching/    
@@ -22,7 +19,5 @@ main:
     url: /cv/
 
   - title: "Contact"
-  url: /contact_me/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /contact_me/
+
