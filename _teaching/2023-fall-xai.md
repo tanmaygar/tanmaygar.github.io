@@ -8,4 +8,5 @@ date: 2022-08-01
 location: "Hyderabad, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In the dynamic realm of artificial intelligence at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), I had the honor of being a Teaching Assistant for the *Explainability in AI* course, under the guidance of [Dr. Mopuri Konda Reddy](https://krmopuri.github.io/). This wasn't just a standard course; it was uniquely structured around open-ended research projects. My role was pivotal in mentoring diverse groups of students, guiding them through the difficulties of their individual projects. My commitment ensured that they navigated the challenges of their research with clarity, ultimately fostering innovation and deeper understanding of the subject matter.
+
