@@ -1,7 +1,7 @@
 ---
 title: "Operating Systems"
 collection: teaching
-type: "Undergraduate course"
+type: "CS3510"
 permalink: /teaching/2022-fall-os
 venue: "Indian Institute of Technology, Hyderabad, India"
 date: 2022-08-01

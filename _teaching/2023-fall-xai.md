@@ -1,7 +1,7 @@
 ---
 title: "Explainability in AI"
 collection: teaching
-type: "Workshop"
+type: "AI51020"
 permalink: /teaching/2023-fall-xai
 venue: "Indian Institute of Technology, Hyderabad, India"
 date: 2022-08-01
