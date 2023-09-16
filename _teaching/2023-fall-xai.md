@@ -4,7 +4,7 @@ collection: teaching
 type: "AI51020"
 permalink: /teaching/2023-fall-xai
 venue: "Indian Institute of Technology, Hyderabad, India"
-date: 2022-08-01
+date: 2023-08-01
 location: "Hyderabad, India"
 ---
 
