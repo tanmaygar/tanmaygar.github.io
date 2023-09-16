@@ -8,13 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone, this is Tanmay Garg and I am currently in my final year at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/). My major is Computer Science and Engineering with Honors.
+Greetings! I'm Tanmay Garg, currently concluding my final year of undergraduate studies in Computer Science and Engineering with Honors at the esteemed [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/).
+
+My passion lies in the realm of Computer Vision, and I'm proud to be associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad. Under the expert mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/), I delve into intriguing research topics such as Explainability in Deep Learning and Ensemble Learning.
+
+### Research Interests:
+- Explainability in Deep Learning
+- Ensemble Learning
+- Transfer Learning
+
+### Personal Interests:
+Music resonates with me, especially when I'm playing the guitar. I have a taste for Rock, Blues, and Acoustic genres. Beyond the academic realm, I indulge in the energetic sport of squash.
+
+In my free moments, I'm captivated by the mysteries of astronomy and the fundamentals of physics, while also following the latest advancements in technology.
+
+
+<!-- Hello everyone, this is Tanmay Garg and I am currently in my final year at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/). My major is Computer Science and Engineering with Honors.
 
 I am very enthusiastic about the domain of Computer Vision and part of [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad. My main areas of research include Explainability and Ensemble Learning under the guidance of [Dr.Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/).
 
 ## Research Areas
 Explainability in Deep Learning, Ensemble Learning, Transfer Learning
 
+## My Hobbies
+I love to play the guitar and some of my favourite genres include Rock, Blues and Acoustic. Apart from academics, i also love to play squash.
+ -->
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
