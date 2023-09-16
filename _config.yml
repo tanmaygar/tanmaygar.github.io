@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tanmay's Website"
 title_separator          : "-"
 name                     : &name "Tanmay Garg"
-description              : &description "This is my description"
+description              : &description "Computer Vision Enthusiast"
 url                      : https://tanmaygar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/tanmaygar/tanmaygar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tanmay Garg"
   avatar           : "profile.png"
-  bio              : "This is my biography"
+  bio              : "Final Year Undergraduate Student of Computer Science at Indian Institute of Technology, Hyderabad"
   location         : "India"
   employer         :
   pubmed           : 
