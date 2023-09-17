@@ -21,7 +21,7 @@ Work experience
 
 * Summer 2022: Research Intern
   * Department of Computer Science and Engineering, IIT Hyderabad
-  * <en>Supervisor</em>: Dr. Vineeth N Balasubramanian
+  * <em>Supervisor</em>: Dr. Vineeth N Balasubramanian
   
 Skills
 ======
