@@ -16,8 +16,8 @@ Here are some of the projects that I have worked on in the past
 
 ## GrowSimplee’s Route Planning for Optimized On-Time Delivery
 
-– Delivery Route Optimization Task based on Package characteristics and delivery points
-– Implemented a DNN in conjunction with a weight sensor to determine the dimensions of object from image
+- Delivery Route Optimization Task based on Package characteristics and delivery points
+- Implemented a DNN in conjunction with a weight sensor to determine the dimensions of object from image
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/Aayush2492/grow-simplee-rider-admin-dashboard.git','_blank')">Code</button>
 
@@ -38,15 +38,15 @@ Here are some of the projects that I have worked on in the past
 
 ## Bosch’s Age And Gender Detection
 
-– Detect Age and Gender of People from CCTV camera footage
-– Used multiple open source models and VGG19 derivative model to give results with good accuracy
+- Detect Age and Gender of People from CCTV camera footage
+- Used multiple open source models and VGG19 derivative model to give results with good accuracy
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/Anmol42/bosch-age-gender','_blank')">Code</button>
 
 ## Convex Optimization
 
-– Implemented Support Vector Machines (Vladimir Vapnik) from scratch and applied for spam classification of emails
-– Implemented using CVXPY and Python
+- Implemented Support Vector Machines (Vladimir Vapnik) from scratch and applied for spam classification of emails
+- Implemented using CVXPY and Python
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/tanmaygar/ConvexProject','_blank')">Code</button>
 
@@ -60,8 +60,8 @@ Here are some of the projects that I have worked on in the past
 
 ## Elektronica - Electronics and Signal Processing Club
 
-– Temperature Sensor and Mask Detection
-– Project is built using Raspberry Pi written in OpenCV, Python, TensorFlow
+- Temperature Sensor and Mask Detection
+- Project is built using Raspberry Pi written in OpenCV, Python, TensorFlow
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/tanmaygar/Elek_project','_blank')">Code</button>
 
