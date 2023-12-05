@@ -12,7 +12,7 @@ Here are some of the projects that I have worked on in the past
 - To estimate the transferability of an ensemble of models to a downstream task. 
 - Solves the complementary information between source models, that impact the performance and variance of the ensemble
 
-<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2309.02429','_blank')">Code</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2309.02429','_blank')">Paper</button>
 
 ## GrowSimplee’s Route Planning for Optimized On-Time Delivery
 
@@ -28,6 +28,7 @@ Here are some of the projects that I have worked on in the past
 - Designed from scratch using Flex and Bison
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/tanmaygar/Nabla','_blank')">Code</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/kartiksrinivas007/NABLA-Automatic-differentiation','_blank')">Code</button>
 
 ## DSpace IIT Hyderabad
 
