@@ -21,4 +21,4 @@ My academic journey has been largely driven by an interest in computer vision. O
 {% endfor %}
 
 ### Recent News
-My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at <i>Human-Centric Representation Learning</i> Workshop organized by AAAI 2024 - 12th December 2023
+My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at AAAI 2024 Conference Workshop - 12th December 2023
