@@ -4,7 +4,7 @@ collection: publicationsacc
 permalink: /2023-hcrl_aaai24
 excerpt: 'The study introduces a concept learning framework, integrating an explanation generator via adversarial training, enhancing model interpretability for visual classification.'
 date: 2024-02-28
-venue: 'Human-Centric Representation Learning Workshop at AAAI-24'
+venue: 'Accepted at: Human-Centric Representation Learning Workshop at AAAI-24'
 # paperurl: 'https://arxiv.org/abs/2309.02429'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
