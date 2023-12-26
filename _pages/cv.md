@@ -19,7 +19,7 @@ Work experience
   * Oracle India
   * <em>Project</em>: Enterprise Structure setup for Financials Offering
 
-* Summer 2022: Research Intern
+* 2022 - Present: Research Intern
   * Department of Computer Science and Engineering, IIT Hyderabad
   * <em>Supervisor</em>: Dr. Vineeth N Balasubramanian
   
