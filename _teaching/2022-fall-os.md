@@ -8,5 +8,5 @@ date: 2022-08-01
 location: "Hyderabad, India"
 ---
 
-During my tenure at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), I had the opportunity to serve as a Teaching Assistant for the Operating Systems course, taught by [Dr. Sathya Peri](https://people.iith.ac.in/sathya_p/). My responsibilities extended beyond traditional instructional duties; I offered one-on-one support to students, ensuring they understood the concepts with clarity and confidence. Additionally, I assisted in the evaluation by grading the assignments and examinations, upholding the high academic standards of the institution.
+I have served as a Teaching Assistant for the Operating Systems course, taught by [Dr. Sathya Peri](https://people.iith.ac.in/sathya_p/). My responsibilities extended beyond traditional instructional duties; I offered one-on-one support to students, ensuring they understood the concepts with clarity and confidence. Additionally, I assisted in the evaluation by grading the assignments and examinations.
 

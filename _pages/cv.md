@@ -49,7 +49,7 @@ Publications
   {% endfor %}</ul>
    -->
 
-Teaching
+Teaching Assistant
 ======
 
   <ul>{% for post in site.teaching %}

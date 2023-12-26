@@ -7,6 +7,13 @@ author_profile: true
 
 Here are some of the projects that I have worked on in the past
 
+## Advancing Ante Hoc Explainable Models through Generative Adversarial Networks
+
+- Presents a concept learning framework enhancing model interpretability in an ante-hoc manner
+- Addresses black-box reputation of DNNs and improves performance in image classification tasks
+
+<!-- <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2309.02429','_blank')">Paper</button> -->
+
 ## Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach
 
 - To estimate the transferability of an ensemble of models to a downstream task. 
