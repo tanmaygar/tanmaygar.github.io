@@ -1,6 +1,6 @@
 ---
 title: "Advancing Ante Hoc Explainable Models through Generative Adversarial Networks"
-collection: publications_acc
+collection: publicationsacc
 permalink: /2023-hcrl_aaai24
 excerpt: 'The study introduces a concept learning framework, integrating an explanation generator via adversarial training, enhancing model interpretability for visual classification.'
 date: 2024-02-28
