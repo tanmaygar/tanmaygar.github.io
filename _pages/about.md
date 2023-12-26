@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I'm Tanmay Garg, currently concluding my final year of undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/).
+I'm Tanmay Garg, currently pursuing my final year of undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/).
 
-My passion lies in the realm of Computer Vision and Machine Learning, and I'm proud to be associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad. Under the expert mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/), I am interested in various research topics such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
+My research and academic interests lies in the domain Computer Vision and Machine Learning, and I'm proud to be associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad, under the expert mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/). I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
 
 ### Recent News
 My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at AAAI 2024 Conference Workshop - 12th December 2023 (To be updated soon)
@@ -21,7 +21,7 @@ My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversar
 - Transfer Learning
 
 ### Personal Interests:
-During my free time, I enjoy playing the guitar and have a taste for Rock, Blues, and Acoustic genres. Beyond the academic realm, I also love playing squash.
+During my free time, I enjoy playing the guitar and have a taste for Rock, Blues, and Acoustic genres. I also love playing squash, and actively participate in competitions.
 
 I'm also interested in theories of astronomy and the fundamentals of physics, while also following the latest advancements in technology.
 
