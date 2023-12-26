@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I'm Tanmay Garg, currently concluding my final year of undergraduate studies in Computer Science and Engineering with Honors at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/).
+Greetings! I'm Tanmay Garg, currently concluding my final year of undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/).
 
 My passion lies in the realm of Computer Vision and Machine Learning, and I'm proud to be associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad. Under the expert mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/), I am interested in various research topics such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
 
