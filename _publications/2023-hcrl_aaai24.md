@@ -5,7 +5,7 @@ permalink: /2023-hcrl_aaai24
 excerpt: 'The study introduces a concept learning framework, integrating an explanation generator via adversarial training, enhancing model interpretability for visual classification.'
 date: 2024-02-28
 venue: 'Accepted at: Human-Centric Representation Learning Workshop at AAAI-24'
-# paperurl: 'https://arxiv.org/abs/2309.02429'
+paperurl: 'https://arxiv.org/abs/2401.04647'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
@@ -14,8 +14,8 @@ This paper presents a novel concept learning framework for enhancing model inter
 In summary, this work presents a significant step towards building inherently interpretable deep vision models with task-aligned concept representations - a key enabler for developing trustworthy AI for real-world perception tasks.
 
 
-<!-- <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2309.02429','_blank')">Paper</button> -->
-<button type="button" class="btn btn-primary btn-sm">To be Updated Soon</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2401.04647','_blank')">Paper</button>
+<!-- <button type="button" class="btn btn-primary btn-sm">To be Updated Soon</button> -->
 <!-- ## Citation
 ```
 @article{osborn,
