@@ -20,5 +20,5 @@ My research and academic interests lie at the intersection of machine learning a
   {% include archive-single.html %}
 {% endfor %}
 
-### Recent News
-My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at AAAI 2024 Conference Workshop - 12th December 2023 (To be updated soon)
+<!-- ### Recent News
+My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at AAAI 2024 Conference Workshop - 12th December 2023 (To be updated soon) -->

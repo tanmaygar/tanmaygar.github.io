@@ -4,7 +4,7 @@ collection: publicationsacc
 permalink: /2023-hcrl_aaai24
 excerpt: 'The study introduces a concept learning framework, integrating an explanation generator via adversarial training, enhancing model interpretability for visual classification.'
 date: 2024-02-28
-venue: 'Accepted at: Human-Centric Representation Learning Workshop at AAAI-24'
+venue: 'Accepted at 2 Workshops: Human-Centric Representation Learning Workshop at AAAI-24, Deployable AI Workshop at AAAI-24'
 paperurl: 'https://arxiv.org/abs/2401.04647'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -15,14 +15,18 @@ In summary, this work presents a significant step towards building inherently in
 
 
 <button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2401.04647','_blank')">Paper</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://hcrl-workshop.github.io/2024/papers.html','_blank')">HCRL Workshop</button>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://sites.google.com/view/dai-2024/accepted-papers','_blank')">DAI Workshop</button>
 <!-- <button type="button" class="btn btn-primary btn-sm">To be Updated Soon</button> -->
-<!-- ## Citation
+## Citation
 ```
-@article{osborn,
-  author    = {Vimal K B, Saketh Bachu, Tanmay Garg, Vineeth N Balasubramanian, Niveditha Lakshmi Narasimhan, Raghavan Konuru},
-  title     = {Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation
-               Approach},
-  journal   = {ICCV},
-  year      = {2023},
+@InProceedings{garg2024advancing,
+      title={Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks}, 
+      author={Tanmay Garg and Deepika Vemuri and Vineeth N Balasubramanian},
+      year={2024},
+    booktitle = {Human-Centric Representation Learning workshop at AAAI-24, and Deployable AI Workshop at AAAI-24},
+      eprint={2401.04647},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
 }
-``` -->
+```
