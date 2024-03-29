@@ -13,7 +13,7 @@ I'm Tanmay Garg, currently pursuing my final year of undergraduate studies in Co
 My research and academic interests lies in the domain Computer Vision and Machine Learning, and I'm proud to be associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad, under the expert mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/). I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
 
 ### Recent News
-My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at AAAI 2024 Conference Workshop - 12th December 2023 ([Paper](https://arxiv.org/abs/2401.04647))
+My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at 2 AAAI 2024 Conference Workshops - 12th December 2023 ([Paper](https://arxiv.org/abs/2401.04647))
 
 ### Research Interests:
 - Explainability in Deep Learning
