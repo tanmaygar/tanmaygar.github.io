@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ======
+* M.S. in Machine Learning, Carnegie Mellon University (Pursuing)
 * B.Tech. in Computer Science and Engineering, Indian Institute of Technology Hyderabad, 2024
 
 Work experience
 ======
+* 2022 - 2024: Undergraduate Researcher
+  * Department of Computer Science and Engineering, IIT Hyderabad
+  * <em>Supervisor</em>: Dr. Vineeth N Balasubramanian
+  
 * Summer 2023: Project Intern
   * Oracle India
   * <em>Project</em>: Enterprise Structure setup for Financials Offering
-
-* 2022 - Present: Research Intern
-  * Department of Computer Science and Engineering, IIT Hyderabad
-  * <em>Supervisor</em>: Dr. Vineeth N Balasubramanian
   
 Skills
 ======

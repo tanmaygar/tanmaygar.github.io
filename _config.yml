@@ -13,7 +13,7 @@ name                     : &name "Tanmay Garg"
 description              : &description "Computer Vision Enthusiast"
 url                      : https://tanmaygar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/tanmaygar/tanmaygar.github.io"
+repository               : "tanmaygar/tanmaygar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Tanmay Garg"
   avatar           : "profile3.jpg"
-  bio              : "Final Year Undergraduate Student of Computer Science and Engineering at Indian Institute of Technology, Hyderabad"
+  # bio              : "Final Year Undergraduate Student of Computer Science and Engineering at Indian Institute of Technology, Hyderabad"
+  bio              : "Graduate Student of Machine Learning at the Machine Learning Department, Carnegie Mellon University"
   location         : "India"
   employer         :
   pubmed           : 

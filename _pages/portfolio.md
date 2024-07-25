@@ -7,6 +7,20 @@ author_profile: true
 
 Here are some of the projects that I have worked on in the past
 
+## CampusMitr - User Friendly IITH Assistant
+### Undergraduate Research Project
+
+- Integrating AI for campus navigation and comprehensive information retrieval
+- Applying state-of-the-art Computer Vision and NLP models for accurate recognition and information extraction
+- Developing a user-friendly interface for the application
+
+## SemAnte - Semantic Attention Metric to Detect Hallucinations
+
+- Formulated a metric to utilize cross attention distributions to quantify semantic hallucinations
+- Designed the metric to calculate argmax of cross attention scores and cosine similarity of word embeddings and evaluated using attention maps and embeddings from BERT to capture relationships beyond surface level n-grams
+
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://github.com/tanmaygar/CS5803-NLP/tree/main/Project','_blank')">Code</button>
+
 ## Advancing Ante Hoc Explainable Models through Generative Adversarial Networks
 
 - Presents a concept learning framework enhancing model interpretability in an ante-hoc manner
