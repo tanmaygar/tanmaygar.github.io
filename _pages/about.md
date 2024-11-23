@@ -10,7 +10,9 @@ redirect_from:
 
 I'm Tanmay Garg, currently pursuing my Master of Science in Machine Learning (MSML) at [Carnegie Mellon University](https://www.ml.cmu.edu/).
 
-My research and academic interests lie in the domain of Computer Vision and Machine Learning. Prior to joining CMU, I completed my undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), where I was associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) under the mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/). I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
+My research and academic interests lie in the domain of Computer Vision and Machine Learning. I am currently working as a Graduate Research Assistant in the Machine Learning Department at CMU. Working with my advisors [Prof. Aarti Singh](https://www.cs.cmu.edu/~aarti/) and [Prof. Barnabas Poczos](https://www.cs.cmu.edu/~bapoczos/), I am exploring the applications of Physics-Informed Diffusion Models for Cosmology.
+
+Prior to joining CMU, I completed my undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), where I was associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) under the mentorship of [Prof. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/). I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
 
 <!-- I'm Tanmay Garg, currently pursuing my MS in Machine Learning at the [Carnegie Mellon University](https://www.ml.cmu.edu/). My research and academic interests lies in the domain Computer Vision and Machine Learning and I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning. -->
 
@@ -24,6 +26,8 @@ My research and academic interests lie in the domain of Computer Vision and Mach
 My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at 2 AAAI 2024 Conference Workshops - 12th December 2023 ([Paper](https://arxiv.org/abs/2401.04647)) -->
 
 ### Research Interests:
+- Diffusion Models
+- Physics-Informed Machine Learning
 - Explainability in Deep Learning
 - Ensemble Learning
 - Transfer Learning

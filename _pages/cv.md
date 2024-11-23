@@ -16,9 +16,12 @@ Education
 
 Work experience
 ======
+* 2024 - Present: Graduate Research Assistant
+  * Department of Machine Learning, Carnegie Mellon University
+  * <em>Supervisor</em>: Prof. Aarti Singh and Prof. Barnabas Poczos
 * 2022 - 2024: Undergraduate Researcher
   * Department of Computer Science and Engineering, IIT Hyderabad
-  * <em>Supervisor</em>: Dr. Vineeth N Balasubramanian
+  * <em>Supervisor</em>: Prof. Vineeth N Balasubramanian
   
 * Summer 2023: Project Intern
   * Oracle India
