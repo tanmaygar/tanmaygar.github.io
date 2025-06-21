@@ -7,6 +7,15 @@ author_profile: true
 
 Here are some of the projects that I have worked on in the past
 
+<!-- ## Physics Informed Diffusion Models for Cosmology
+
+-  -->
+
+## DiffuseNeedle - Accelerating Diffusion Models with Needle
+### Course Project for 10-714 DL Systems
+
+- Designed and Implemented a custom accelerated library from scratch for diffusion models by leveraging custom CUDA kernels, achieving a 5.54x speedup compared to standard implementations
+
 ## CampusMitr - User Friendly IITH Assistant
 ### Undergraduate Research Project
 

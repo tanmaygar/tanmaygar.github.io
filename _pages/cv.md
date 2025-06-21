@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* Summer 2025: Machine Learning Engineer Intern
+  * Adobe
 * 2024 - Present: Graduate Research Assistant
   * Department of Machine Learning, Carnegie Mellon University
   * <em>Supervisor</em>: Prof. Aarti Singh and Prof. Barnabas Poczos
