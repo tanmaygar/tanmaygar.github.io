@@ -7,9 +7,19 @@ author_profile: true
 
 Here are some of the projects that I have worked on in the past
 
-<!-- ## Physics Informed Diffusion Models for Cosmology
+## Multi-Agent MCP Framework for Brand Compliance (Adobe GenStudio)
+### ML Engineer Intern, Adobe &mdash; May&ndash;Aug 2025
 
--  -->
+- Designed and deployed a hierarchical multi-agent MCP (Model Context Protocol) framework using FastMCP, LangGraph, and Agno with 12+ brand compliance tools covering copy, logo, image, and layout validation
+- Implemented 4 agent architectures: ReAct, Supervisor routing, DAG workflow, and Memory-Enhanced (three-tier persistent memory); integrated A2A protocol for inter-agent communication
+- Enabled cross-framework interoperability via mcpadapt; framework adopted across multiple teams, boosting user efficiency by 35% and developer productivity by 25%
+
+## Physics-Informed Conditional Diffusion for Multi-Modal PDEs
+### Graduate Research, CMU &mdash; Sep 2024&ndash;Dec 2025
+
+- Proposed a mesh-free physics-informed diffusion framework for multimodal PDEs including quantum systems (Schrödinger), wave propagation (Helmholtz), and nonlinear dynamics (Gross-Pitaevskii)
+- Dual physics + data loss training with DDIM sampling; reduced MSE by 13% and Wasserstein-1 distance by 10% vs. baselines; avoided mode collapse across 1D/2D PDE domains
+- Published at AI and PDE Workshop, ICLR 2026
 
 ## DiffuseNeedle - Accelerating Diffusion Models with Needle
 ### Course Project for 10-714 DL Systems

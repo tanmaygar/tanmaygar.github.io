@@ -8,29 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I'm Tanmay Garg, currently pursuing my Master of Science in Machine Learning (MSML) at [Carnegie Mellon University](https://www.ml.cmu.edu/).
+I'm Tanmay Garg, an ML Engineer at [Adobe](https://www.adobe.com/) and M.S. in Machine Learning graduate from [Carnegie Mellon University](https://www.ml.cmu.edu/).
 
-My research and academic interests lie in the domain of Computer Vision and Machine Learning. I am currently working as a Graduate Research Assistant in the Machine Learning Department at CMU. Working with my advisors [Prof. Aarti Singh](https://www.cs.cmu.edu/~aarti/) and [Prof. Barnabas Poczos](https://www.cs.cmu.edu/~bapoczos/), I am exploring the applications of Physics-Informed Diffusion Models for Cosmology.
+At Adobe, I work on the Experience Intelligence team building LLM evaluation infrastructure and agentic AI systems for [Adobe GenStudio](https://business.adobe.com/products/genstudio.html). My work spans LLM evaluation frameworks, multi-agent orchestration with MCP and LangGraph, and prompt engineering for enterprise AI applications.
 
-Prior to joining CMU, I completed my undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), where I was associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) under the mentorship of [Prof. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/). I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning.
+I completed my M.S. at CMU working as a Graduate Research Assistant with [Prof. Aarti Singh](https://www.cs.cmu.edu/~aarti/) and [Prof. Barnabas Poczos](https://www.cs.cmu.edu/~bapoczos/) on physics-informed diffusion models for cosmology and multi-modal PDEs, bridging generative AI with physics-based learning. This work was published at the AI and PDE Workshop, ICLR 2026.
 
-<!-- I'm Tanmay Garg, currently pursuing my MS in Machine Learning at the [Carnegie Mellon University](https://www.ml.cmu.edu/). My research and academic interests lies in the domain Computer Vision and Machine Learning and I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning. -->
+Prior to CMU, I completed my undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), where I was associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) under [Prof. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/), leading to publications at ICCV 2023 and AAAI 2024.
 
-<!-- During my undergraduate studies in Computer Sce -->
-
-<!-- I'm Tanmay Garg, currently pursuing my final year of undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/). -->
-
-<!-- My research and academic interests lies in the domain Computer Vision and Machine Learning, and I'm proud to be associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) at IIT Hyderabad, under the expert mentorship of [Dr. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/). I am interested in research areas such as Explainability in Deep Learning, Ensemble Learning, and Transfer Learning. -->
-
-<!-- ### Recent News
-My paper on <i>Advancing Ante Hoc Explainable Models through Generative Adversarial Networks</i> has been accepted at 2 AAAI 2024 Conference Workshops - 12th December 2023 ([Paper](https://arxiv.org/abs/2401.04647)) -->
+### Recent News
+- **Mar 2026** &mdash; Paper accepted: *Physics-Informed Conditional Diffusion for Multi-Modal PDEs* &mdash; AI and PDE Workshop, ICLR 2026
+- **Jan 2026** &mdash; Joined Adobe as ML Engineer, Experience Intelligence team at Adobe GenStudio
+- **Dec 2025** &mdash; Graduated with M.S. in Machine Learning from Carnegie Mellon University
+- **May 2025** &mdash; Started ML Engineer Internship at Adobe GenStudio
 
 ### Research Interests:
+- Agentic AI & Multi-Agent Systems
+- LLM Evaluation
 - Diffusion Models
 - Physics-Informed Machine Learning
-- Explainability in Deep Learning
-- Ensemble Learning
-- Transfer Learning
+- Explainable AI
+- Computer Vision & Transfer Learning
 
 ### Personal Interests:
 During my free time, I enjoy playing the guitar and have a taste for Rock, Blues, and Acoustic genres. I also love playing squash, and actively participate in competitions.
