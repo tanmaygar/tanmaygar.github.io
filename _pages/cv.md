@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.S. in Machine Learning, Carnegie Mellon University (Pursuing)
+* M.S. in Machine Learning, Carnegie Mellon University
 * B.Tech. in Computer Science and Engineering, Indian Institute of Technology Hyderabad, 2024
 
 Work experience
 ======
+2025 - Present: Machine Learning Engineer
+  * Adobe, Experience Intelligence team, Adobe GenStudio
 * Summer 2025: Machine Learning Engineer Intern
   * Adobe
-* 2024 - Present: Graduate Research Assistant
+* 2024 - 2025: Graduate Research Assistant
   * Department of Machine Learning, Carnegie Mellon University
   * <em>Supervisor</em>: Prof. Aarti Singh and Prof. Barnabas Poczos
 * 2022 - 2024: Undergraduate Researcher
