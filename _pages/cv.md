@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-2025 - Present: Machine Learning Engineer
+* 2025 - Present: Machine Learning Engineer
   * Adobe, Experience Intelligence team, Adobe GenStudio
 * Summer 2025: Machine Learning Engineer Intern
   * Adobe
