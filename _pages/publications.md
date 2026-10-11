@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Areas of Interest
-My research and academic interests lie at the intersection of machine learning and computer vision. I'm exploring various theoretical frameworks and empirical techniques. Whether it's traditional image processing techniques or advanced deep learning methodologies, I'm always on the lookout for the next challenge in computer vision. Feel free to explore my work and reach out for collaborations or discussions!
+My research and academic interests lie at the intersection of generative modeling, scientific machine learning and trustworthy AI. At CMU I work on physics-informed diffusion models for PDEs and cosmology. Earlier work at IIT Hyderabad covers explainable models and transferability estimation for ensembles. Day to day at Adobe I work on LLM evaluation and agentic systems and I'm always on the lookout for the next challenge in computer vision. Feel free to explore my work and reach out for collaborations or discussions!
 
 ## Publications
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Website"
+title: "ML Engineer and Researcher"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm Tanmay Garg, an ML Engineer at [Adobe](https://www.adobe.com/) and M.S. in Machine Learning graduate from [Carnegie Mellon University](https://www.ml.cmu.edu/).
+I'm Tanmay Garg, an ML Engineer at [Adobe](https://www.adobe.com/) and M.S. in Machine Learning graduate from [Carnegie Mellon University](https://www.ml.cmu.edu/). I build agentic AI systems and the evaluation infrastructure that tells you whether they work, and I study how generative models can respect physics.
 
-At Adobe, I work on the Experience Intelligence team building LLM evaluation infrastructure and agentic AI systems for [Adobe GenStudio](https://business.adobe.com/products/genstudio.html). My work spans LLM evaluation frameworks, multi-agent orchestration with MCP and LangGraph, and prompt engineering for enterprise AI applications.
+At Adobe, I work on the Experience Intelligence team building LLM evaluation infrastructure and agentic AI systems for [Adobe Firefly](https://www.adobe.com/products/firefly/features/ai-assistant.html). My work spans LLM evaluation frameworks, multi-agent orchestration with MCP and LangGraph, and prompt engineering for enterprise AI applications.
 
 I completed my M.S. at CMU working as a Graduate Research Assistant with [Prof. Aarti Singh](https://www.cs.cmu.edu/~aarti/) and [Prof. Barnabas Poczos](https://www.cs.cmu.edu/~bapoczos/) on physics-informed diffusion models for cosmology and multi-modal PDEs, bridging generative AI with physics-based learning. This work was published at the AI and PDE Workshop, ICLR 2026.
 
 Prior to CMU, I completed my undergraduate studies in Computer Science and Engineering at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/), where I was associated with the [Machine Learning and Vision Group](https://lab1055.github.io/) under [Prof. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/), leading to publications at ICCV 2023 and AAAI 2024.
 
+<!-- 
+### Selected Publications
+1. **Physics-Informed Conditional Diffusion for Multi-Modal PDEs.** T. Garg, T. N. Pham, B. Póczos, A. Singh. *AI and PDE Workshop, ICLR 2026.* [Paper](https://openreview.net/forum?id=7OwjPIfFza)
+2. **Advancing Ante-Hoc Explainable Models through Generative Adversarial Networks.** T. Garg, D. Vemuri, V. N. Balasubramanian. *HCRL and DAI Workshops, AAAI 2024.* [Paper](https://arxiv.org/abs/2401.04647)
+3. **Building a Winning Team: Selecting Source Model Ensembles using a Submodular Transferability Estimation Approach.** V. K B, S. Bachu, T. Garg, N. L. Narasimhan, R. Konuru, V. N. Balasubramanian. *ICCV 2023.* [Paper](https://arxiv.org/abs/2309.02429) -->
+
+Read about my research on the [Research](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=G9rnm5QAAAAJ&hl=en).
+
+<!-- 
 ### Recent News
-- **Mar 2026** &mdash; Paper accepted: *Physics-Informed Conditional Diffusion for Multi-Modal PDEs* &mdash; AI and PDE Workshop, ICLR 2026
-- **Jan 2026** &mdash; Joined Adobe as ML Engineer, Experience Intelligence team at Adobe GenStudio
-- **Dec 2025** &mdash; Graduated with M.S. in Machine Learning from Carnegie Mellon University
-- **May 2025** &mdash; Started ML Engineer Internship at Adobe GenStudio
+- **Mar 2026** - Paper accepted: *Physics-Informed Conditional Diffusion for Multi-Modal PDEs* - AI and PDE Workshop, ICLR 2026
+- **Jan 2026** - Joined Adobe as ML Engineer, Experience Intelligence team at Adobe
+- **Dec 2025** - Graduated with M.S. in Machine Learning from Carnegie Mellon University
+- **May 2025** - Started ML Engineer Internship at Adobe -->
 
 ### Research Interests:
 - Agentic AI & Multi-Agent Systems
@@ -31,9 +40,7 @@ Prior to CMU, I completed my undergraduate studies in Computer Science and Engin
 - Computer Vision & Transfer Learning
 
 ### Personal Interests:
-During my free time, I enjoy playing the guitar and have a taste for Rock, Blues, and Acoustic genres. I also love playing squash, and actively participate in competitions.
-
-I'm also interested in theories of astronomy and the fundamentals of physics, while also following the latest advancements in technology.
+Outside work I play guitar, mostly rock, blues and acoustic, and compete in squash. I also read about astronomy and the fundamentals of physics, and I try to keep up with new technology.
 
 
 <!-- Hello everyone, this is Tanmay Garg and I am currently in my final year at the [Indian Institute of Technology, Hyderabad](https://cse.iith.ac.in/). My major is Computer Science and Engineering with Honors.

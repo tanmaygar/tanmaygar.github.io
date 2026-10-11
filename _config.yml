@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tanmay's Website"
+title                    : "Tanmay Garg"
 title_separator          : "-"
 name                     : &name "Tanmay Garg"
-description              : &description "ML Engineer @ Adobe | M.S. ML @ CMU"
+description              : &description "ML Engineer @ Adobe | M.S. ML @ CMU | Agentic AI, LLM Evaluation | Research on physics-informed diffusion models and explainable AI, published at ICLR, ICCV and AAAI."
 url                      : https://tanmaygar.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tanmaygar/tanmaygar.github.io"
@@ -62,14 +62,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "profile3.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - https://www.linkedin.com/in/tanmaygarg1
+    - https://github.com/tanmaygar
+    - https://scholar.google.com/citations?user=G9rnm5QAAAAJ
 
 # Analytics
 analytics:
@@ -83,7 +85,7 @@ author:
   name             : "Tanmay Garg"
   avatar           : "profile3.jpg"
   # bio              : "Final Year Undergraduate Student of Computer Science and Engineering at Indian Institute of Technology, Hyderabad"
-  bio              : "ML Engineer @ Adobe | M.S. in Machine Learning, Carnegie Mellon University"
+  bio              : "ML Engineer @ Adobe | M.S. ML @ CMU | Agentic AI, LLM Evaluation | Physics-informed diffusion, Scientific ML, Explainable AI."
   location         : "San Jose, CA"
   employer         :
   pubmed           : 

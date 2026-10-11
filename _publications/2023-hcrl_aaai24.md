@@ -2,9 +2,9 @@
 title: "Advancing Ante Hoc Explainable Models through Generative Adversarial Networks"
 collection: publications
 permalink: /2023-hcrl_aaai24
-excerpt: 'The study introduces a concept learning framework, integrating an explanation generator via adversarial training, enhancing model interpretability for visual classification.'
+excerpt: '<strong>Tanmay Garg</strong>, Deepika Vemuri, Vineeth N. Balasubramanian<br>The study introduces a concept learning framework, integrating an explanation generator via adversarial training, enhancing model interpretability for visual classification.'
 date: 2024-02-28
-venue: 'Accepted at 2 Workshops: Human-Centric Representation Learning Workshop at AAAI-24, Deployable AI Workshop at AAAI-24'
+venue: 'Human-Centric Representation Learning Workshop at AAAI 2024 and Deployable AI Workshop at AAAI 2024'
 paperurl: 'https://arxiv.org/abs/2401.04647'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

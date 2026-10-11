@@ -7,12 +7,13 @@ author_profile: true
 
 Here are some of the projects that I have worked on in the past
 
-## Multi-Agent MCP Framework for Brand Compliance (Adobe GenStudio)
-### ML Engineer Intern, Adobe May-Aug 2025
+## Work at Adobe
+### ML Engineer
 
-- Designed and deployed a hierarchical multi-agent MCP (Model Context Protocol) framework using FastMCP, LangGraph, and Agno with 12+ brand compliance tools covering copy, logo, image, and layout validation
-- Implemented 4 agent architectures: ReAct, Supervisor routing, DAG workflow, and Memory-Enhanced (three-tier persistent memory); integrated A2A protocol for inter-agent communication
-- Enabled cross-framework interoperability via mcpadapt; framework adopted across multiple teams, boosting user efficiency by 35% and developer productivity by 25%
+- **LLM evaluation:** I build the offline evaluation infrastructure for LLM-based brand compliance: benchmarks, metrics and experiment tracking, with a method that scores what can be verified separately from what is a judgment call.
+- **Agentic systems:** I design multi-agent systems and the tool layer they call, using MCP, LangGraph, Agno and the A2A protocol.
+- **Extraction and validation:** I work on how brand guidelines are extracted from documents and websites, how copy and images are validated against them, and how brand terminology is enforced.
+
 
 ## Physics-Informed Conditional Diffusion for Multi-Modal PDEs
 ### Graduate Research, CMU Sep 2024-Dec 2025

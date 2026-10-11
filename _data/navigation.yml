@@ -6,7 +6,7 @@ main:
   # - title: "Research"
   #   url: /research/
 
-  - title: "Teaching Assistant"
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Projects"
@@ -14,7 +14,7 @@ main:
         
   - title: "Blog"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
 
